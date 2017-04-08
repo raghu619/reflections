@@ -235,7 +235,7 @@ function initializeMap() {
 }
 
 /*
-Uncomment the code below when you're ready to implement a Google Map!
+Uncomment the code below when you're ready to implement a Google Map!message
 */
 
 // Calls the initializeMap() function when the page loads
